@@ -1,0 +1,55 @@
+body {
+    padding-top: 70px;
+    background-image: url("../img/swirl_pattern.png");
+}
+
+.jumbotron {
+    background-color: dodgerblue;
+    color: whitesmoke;
+}
+
+.panel-heading {
+    background-color: dodgerblue !important;
+    color: whitesmoke !important;
+}
+
+.panel-body {
+    color: #333333 !important;
+}
+
+.opaque-navbar {
+    background-color: rgba(0,0,0,0.8);
+}
+
+.navbar-brand:link, .navbar-brand:visited {
+    color: dodgerblue !important;
+}
+
+.navbar-brand:hover, .navbar-brand:active {
+    color: whitesmoke !important;
+}
+
+.footer {
+    bottom: 0;
+    width: 100%;
+    /* Set the fixed height of the footer here */
+    height: 60px;
+    background-color: rgba(0,0,0,0.8);
+}
+
+.container .text-muted {
+    margin: 20px 0;
+}
+
+/*.panel-body button {*/
+    /*background-color: dodgerblue;*/
+    /*color: whitesmoke;*/
+/*}*/
+
+/*#myNavbar a:link, #myNavbar a:visited {*/
+    /*color: whitesmoke;*/
+/*}*/
+
+/*#myNavbar a:hover, #myNavbar a:active {*/
+    /*color: dodgerblue;*/
+/*}*/
